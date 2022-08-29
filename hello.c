@@ -5,5 +5,3 @@ int main()
   return 0;
 }
 
-gcc hello.c
-./a.out
